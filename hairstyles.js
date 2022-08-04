@@ -1,4 +1,4 @@
-const hairstyles = {
+const hairStyles = {
     'short': [
         {
             'name': 'the buzz cut with a bald fade',
@@ -81,7 +81,7 @@ const hairstyles = {
             'img': 'https://i.imgur.com/cr2BiIB.jpg'
         }
     ],
-    'unknown'{
+    'unknown':{
         'name': 'unknown',
         'description': 'unknown',
         'img': 'unknown'
